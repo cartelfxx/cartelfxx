@@ -13,10 +13,8 @@
 ---
 
 ## 🧠 Hakkımda
-
-- 🎯 Discord.js v14 ve TypeScript ile modüler, güvenli ve yüksek performanslı sistemler geliştiriyorum.  
+ 
 - ⚙️ Electron, MongoDB, Redis, MySQL ve PHP alanlarında üretim odaklı projeler inşa ediyorum.  
-- 📦 Kendi geliştirdiğim açık kaynak NPM paketleri: [`tdk-api`](https://npmjs.com/package/tdk-api), [`discord-kelime`](https://npmjs.com/package/discord-kelime)  
 - 🌍 Türkiye / Azerbaycan
 
 ---
