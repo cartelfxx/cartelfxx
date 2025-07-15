@@ -93,10 +93,6 @@
 ## 📫 İletişim
 
 <p align="center">
-  <a href="mailto:cartelfx@example.com">
-    <img src="https://img.shields.io/badge/-E-mail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://instagram.com/cartelfx.027">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
